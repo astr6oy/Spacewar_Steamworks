@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(cat:*)",
+      "WebFetch(domain:partner.steamgames.com)",
+      "WebFetch(domain:steamdb.info)",
+      "WebFetch(domain:raw.githubusercontent.com)"
+    ]
+  }
+}
